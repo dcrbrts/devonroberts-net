@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DeVon Roberts</title>
-    <link>https://you.github.io/</link>
+    <link>https://dcrbrts.github.io/devonroberts-net/</link>
     <description>Recent content on DeVon Roberts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 28 Dec 2017 16:45:00 -0600</lastBuildDate>
     
-	<atom:link href="https://you.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dcrbrts.github.io/devonroberts-net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sample Blog Post</title>
-      <link>https://you.github.io/blog/sample-blog-post/</link>
+      <link>https://dcrbrts.github.io/devonroberts-net/blog/sample-blog-post/</link>
       <pubDate>Thu, 28 Dec 2017 16:45:00 -0600</pubDate>
       
-      <guid>https://you.github.io/blog/sample-blog-post/</guid>
+      <guid>https://dcrbrts.github.io/devonroberts-net/blog/sample-blog-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est leo, convallis at turpis vestibulum, mattis rutrum felis. Ut quis elit ac risus condimentum ultricies id in ex. Aenean dictum iaculis lacus. Nam ac diam eget massa consequat tempor. Sed vitae dolor aliquet ipsum sagittis varius in eget urna. Suspendisse finibus dictum quam, ut tincidunt magna semper in. Nullam vitae lectus vitae nisl sodales laoreet a pretium nulla. Sed varius accumsan turpis, sed molestie lectus tincidunt finibus.</description>
     </item>
     
